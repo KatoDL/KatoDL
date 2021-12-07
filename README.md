@@ -8,11 +8,11 @@ I really enjoyed this bootcamp. That is why I now want to become a *full stack d
 
 ## My skills 
 During the nine week bootcamp I gainded a lot of skills in: 
--Ruby
--Rails
--Heroku
--JavaScript
--CSS3
--HTML5
--Git
--PostgreSQL
+- Ruby
+- Rails
+- Heroku
+- JavaScript
+- CSS3
+- HTML5
+- Git
+- PostgreSQL
